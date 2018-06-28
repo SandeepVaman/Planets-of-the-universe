@@ -2,6 +2,18 @@
 layout: default
 ---
 
-        
+        <h1>Planets of the universe</h1>
         <p>Lots of the planets in the universe.</p>
+
+        <h2>Types of planets</h2>
+        
+        <ol>
+                {% for planet in site.data.planet-types %}
+                <li>
+                        <a href="#">{{planet.title}}</a>
+                        {{planet.content | markdownify}}
+                </li>
+                {% endfor %}
+        </ol>
+        
    

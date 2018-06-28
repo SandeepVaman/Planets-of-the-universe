@@ -1,0 +1,14 @@
+- title: Dwarf
+  category: dwarf
+  content: 'A **dwarf planet** is a Gas-giant planet.'
+
+- title: Terrestrial
+  category: terrestrial
+  content: 'A **Terrestrial planet** is Terrestrial-giant planet.'
+
+- title: Gas Giant
+  category: gas-giant
+  content: 'A **Gas-giant planet** is a Gas-giant planet.'
+
+
+
