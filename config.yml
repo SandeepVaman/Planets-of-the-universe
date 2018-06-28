@@ -1,4 +1,5 @@
 markdown: redcarpet
 baseurl: /Planets-of-the-universe
 exclude: ['README.md']
+permalink: pretty
 
